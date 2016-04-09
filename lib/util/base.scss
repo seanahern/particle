@@ -1,0 +1,22 @@
+body {
+  font-size: 16px;
+  line-height: 1.4em;
+  -webkit-font-smoothing: antialiased;
+  text-align: center;
+  font-family: $font-family;
+}
+
+* {
+  margin: 0px; padding: 0px;
+  box-sizing: border-box;
+}
+
+.container {
+  text-align: left;
+  margin: 0px auto;
+  width: 90%;
+  max-width: 1024px;
+}
+
+
+
